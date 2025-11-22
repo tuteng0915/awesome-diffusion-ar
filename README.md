@@ -7,13 +7,10 @@ A curated list of hybrid Diffusion + Autoregressive (ARxDiff) models for languag
 
 ## <img height=28 src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png"/> Legend
 
-- 🔗 **Hybrid (Diffusion × Autoregression)** – explicit collaboration between a diffusion module and an autoregressive module.
-- 💭 **Diffusion-style generation** – masked / block / discrete diffusion or flow-style iterative refinement.
-- 📝 **Autoregressive-style generation** – left-to-right or causal decoding over tokens or actions.
-- 🧠 **Language & reasoning** – tasks centered on text generation, multi-step reasoning, planning, or tool use.
-- 🤖 **Embodied / VLA / robotics** – agents that perceive, think, and act (vision–language–action, robot control, visuomotor policies).
-- ⚡ **Inference efficiency / decoding tricks** – methods focused on faster sampling, KV cache, block-wise decoding, or test-time scaling.
-- 📐 **Theory / general frameworks** – conceptual or theoretical work comparing AR vs diffusion or unifying them in a shared view.
+- 🔗 **Hybrid (Diffusion × Autoregression)** – explicit collaboration.
+- 💭 **Diffusion-style generation** – masked / block / discrete diffusion.
+- 📝 **Autoregressive-style generation** – left-to-right or causal decoding.
+- ⚡ **Inference efficiency** – methods focused on faster sampling.
 
 ---
 
@@ -21,16 +18,18 @@ A curated list of hybrid Diffusion + Autoregressive (ARxDiff) models for languag
 
 ### 🧠 Language & Reasoning
 
+Tasks centered on text generation, multi-step reasoning, planning, or tool use.
+
 #### 2025
-- 2025 🔗🧠 Planner and Executor: Collaboration Between Discrete Diffusion and Autoregressive Models in Reasoning. [arXiv:2510.15244](https://arxiv.org/abs/2510.15244)
-- 2025 🔗🧠 Planned Diffusion: A Guiding Diffusion Language Model via Planning. [arXiv:2510.18087](https://arxiv.org/abs/2510.18087)
-- 2025 🔗🧠 TiDAR: Think in Diffusion, Talk in Autoregression. [arXiv:2511.08923](https://arxiv.org/abs/2511.08923)
+- 2025 🔗 Planner and Executor: Collaboration Between Discrete Diffusion and Autoregressive Models in Reasoning. [arXiv:2510.15244](https://arxiv.org/abs/2510.15244)
+- 2025 🔗 Planned Diffusion: A Guiding Diffusion Language Model via Planning. [arXiv:2510.18087](https://arxiv.org/abs/2510.18087)
+- 2025 🔗 TiDAR: Think in Diffusion, Talk in Autoregression. [arXiv:2511.08923](https://arxiv.org/abs/2511.08923)
 - 2025 🔗⚡ D2F: Diffusion LLMs Can Do Faster-Than-AR Inference via Discrete Diffusion Forcing. [arXiv:2508.09192](https://arxiv.org/abs/2508.09192)
-- 2025 ⚡💭 Fast-dLLM: Training-free Acceleration of Diffusion LLM by Enabling KV Cache and Parallel Decoding. [arXiv:2505.22618](https://arxiv.org/abs/2505.22618)
-- 2025 ⚡💭 HEX: Test-Time Scaling in Diffusion LLMs via Hidden Semi-Autoregressive Experts. [arXiv:2510.05040](https://arxiv.org/abs/2510.05040)
+- 2025 💭⚡ Fast-dLLM: Training-free Acceleration of Diffusion LLM by Enabling KV Cache and Parallel Decoding. [arXiv:2505.22618](https://arxiv.org/abs/2505.22618)
+- 2025 💭⚡ HEX: Test-Time Scaling in Diffusion LLMs via Hidden Semi-Autoregressive Experts. [arXiv:2510.05040](https://arxiv.org/abs/2510.05040)
 
 #### 2024
-- 2024 🔗🧠 Diffusion Guided Language Modeling. [arXiv:2408.04220](https://arxiv.org/abs/2408.04220)
+- 2024 🔗 Diffusion Guided Language Modeling. [arXiv:2408.04220](https://arxiv.org/abs/2408.04220)
 - 2024 💭📝 Simple and Effective Masked Diffusion Language Models. [arXiv:2406.07524](https://arxiv.org/abs/2406.07524)
 - 2024 💭📝 Meta-DiffuB: A Contextualized Sequence-to-Sequence Text Diffusion Model with Meta-Exploration. [arXiv:2410.13201](https://arxiv.org/abs/2410.13201)
 
@@ -44,15 +43,19 @@ A curated list of hybrid Diffusion + Autoregressive (ARxDiff) models for languag
 
 ### 🤖 Embodied / VLA
 
+Agents that perceive, think, and act (vision–language–action, robot control, visuomotor policies).
+
 #### 2025
-- 2025 🤖🔗 HybridVLA: Collaborative Diffusion and Autoregression in a Unified Vision-Language-Action Model. [arXiv:2503.10631](https://arxiv.org/abs/2503.10631)
+- 2025 🔗 HybridVLA: Collaborative Diffusion and Autoregression in a Unified Vision-Language-Action Model. [arXiv:2503.10631](https://arxiv.org/abs/2503.10631)
 
 #### 2024
-- 2024 🤖🔗 Diffusion-VLA: Scaling Robot Foundation Models via Unified Diffusion and Autoregression. [arXiv:2412.03293](https://arxiv.org/abs/2412.03293)
+- 2024 🔗 Diffusion-VLA: Scaling Robot Foundation Models via Unified Diffusion and Autoregression. [arXiv:2412.03293](https://arxiv.org/abs/2412.03293)
 
 ---
 
 ### 📐 Theory & General Frameworks
+
+Conceptual or theoretical work comparing AR vs diffusion or unifying them in a shared view.
 
 #### 2025
 - 2025 📐 On Powerful Ways to Generate: Autoregression, Diffusion, and Beyond. [arXiv:2510.06190](https://arxiv.org/abs/2510.06190)
