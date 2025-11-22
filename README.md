@@ -1,11 +1,11 @@
-# <img height=34 src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png"/> Awesome Diffusion × Autoregression (DxAR)
-A curated list of hybrid Diffusion + Autoregressive (ARxDiff) models for language, reasoning, and robots.
+# <img height=34 src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png"/> Awesome Diffusion × Autoregression (DiffxAR)
+A curated list of hybrid Diffusion + Autoregressive (DiffxAR) models for language, reasoning, and robots.
 
-<img height=220 src="./img/dxar.png" alt="Diffusion × Autoregression hybrid models illustration"/>
+(TODO) <img height=220 src="./img/dxar.png" alt="Diffusion × Autoregression hybrid models illustration"/>
 
 ---
 
-## <img height=28 src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png"/> Legend
+## <img height=28 src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Hearts"/> Legend
 
 - 🔗 **Hybrid (Diffusion × Autoregression)** – explicit collaboration.
 - 💭 **Diffusion-style generation** – masked / block / discrete diffusion.
