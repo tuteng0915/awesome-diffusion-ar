@@ -20,7 +20,8 @@ A curated list of hybrid Diffusion + Autoregressive (DiffxAR) models for languag
 
 Tasks centered on text generation, multi-step reasoning, planning, or tool use.
 
-#### 2025- 2025 🔗 Planner and Executor: Collaboration Between Discrete Diffusion and Autoregressive Models in Reasoning. [arXiv:2510.15244](https://arxiv.org/abs/2510.15244)
+#### 2025
+- 2025 🔗 Planner and Executor: Collaboration Between Discrete Diffusion and Autoregressive Models in Reasoning. [arXiv:2510.15244](https://arxiv.org/abs/2510.15244)
 - 2025 🔗 Planned Diffusion: A Guiding Diffusion Language Model via Planning. [arXiv:2510.18087](https://arxiv.org/abs/2510.18087)
 - 2025 🔗 TiDAR: Think in Diffusion, Talk in Autoregression. [arXiv:2511.08923](https://arxiv.org/abs/2511.08923)
 - 2025 🔗⚡ D2F: Diffusion LLMs Can Do Faster-Than-AR Inference via Discrete Diffusion Forcing. [arXiv:2508.09192](https://arxiv.org/abs/2508.09192)
