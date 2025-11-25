@@ -1,8 +1,6 @@
 # <img height=34 src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png"/> Awesome Diffusion × Autoregression (DiffxAR)
 A curated list of hybrid Diffusion + Autoregressive (DiffxAR) models for language, reasoning, and robots.
 
-(TODO) <img height=220 src="./img/dxar.png" alt="Diffusion × Autoregression hybrid models illustration"/>
-
 ---
 
 ## <img height=28 src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Hearts.png"/> Legend
@@ -40,10 +38,9 @@ Tasks centered on text generation, multi-step reasoning, planning, or tool use.
 
 
 #### 2024
-- 2024 🔗 Diffusion Guided Language Modeling. [arXiv:2408.04220](https://arxiv.org/abs/2408.04220)
-- 2024 💭 Simple and Effective Masked Diffusion Language Models. [arXiv:2406.07524](https://arxiv.org/abs/2406.07524)
+- 2024 📝 Diffusion Guided Language Modeling. [arXiv:2408.04220](https://arxiv.org/abs/2408.04220)
 - 2024 💭 Meta-DiffuB: A Contextualized Sequence-to-Sequence Text Diffusion Model with Meta-Exploration. [arXiv:2410.13201](https://arxiv.org/abs/2410.13201)
-- 2024 🔗 Beyond Autoregression: Discrete Diffusion for Complex Reasoning and Planning. [arXiv:2410.14157](https://arxiv.org/abs/2410.14157)
+- 2024 📝 Beyond Autoregression: Discrete Diffusion for Complex Reasoning and Planning. [arXiv:2410.14157](https://arxiv.org/abs/2410.14157)
 - 2024 📝⚡ Beyond Autoregression: Fast LLMs via Self-Distillation Through Time. [arXiv:2410.21035](https://arxiv.org/abs/2410.21035)
 - 2024 🔗 Scaling Diffusion Language Models via Adaptation from Autoregressive Models. [arXiv:2410.17891](https://arxiv.org/abs/2410.17891)
 - 2024 💭 Diffusion-of-Thought: Chain-of-Thought Reasoning in Diffusion Language Models. [arXiv:2402.07754](https://arxiv.org/abs/2402.07754)
