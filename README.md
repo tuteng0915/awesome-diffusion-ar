@@ -35,6 +35,7 @@ Note: Currently, this repository is under construction, some tags may be wrong o
 ### 2025
 
 - 2025 🧱🧩🧠 Planner and Executor: Collaboration Between Discrete Diffusion and Autoregressive Models in Reasoning. [arXiv:2510.15244](https://arxiv.org/abs/2510.15244)
+- 2025 🌊🧩🧠 LaDiR: Latent Diffusion Enhances LLMs for Text Reasoning. [arXiv:2510.04573](https://arxiv.org/abs/2510.04573)
 - 2025 🧱🧩 Planned Diffusion: A Guiding Diffusion Language Model via Planning. [arXiv:2510.18087](https://arxiv.org/abs/2510.18087)
 - 2025 🧱🧩🧠 TiDAR: Think in Diffusion, Talk in Autoregression. [arXiv:2511.08923](https://arxiv.org/abs/2511.08923)
 - 2025 🧱🪜⚙️ D2F: Diffusion LLMs Can Do Faster-Than-AR Inference via Discrete Diffusion Forcing. [arXiv:2508.09192](https://arxiv.org/abs/2508.09192)
@@ -47,7 +48,7 @@ Note: Currently, this repository is under construction, some tags may be wrong o
 - 2025 🧱🪜 Energy-Based Diffusion Language Models for Text Generation. [arXiv:2410.21357](https://arxiv.org/abs/2410.21357)
 - 2025 🧱⚖️ On Powerful Ways to Generate: Autoregression, Diffusion, and Beyond. [arXiv:2510.06190](https://arxiv.org/abs/2510.06190)
 - 2025 🧱🪜 Non-Markovian Discrete Diffusion with Causal Language Models. [arXiv:2502.09767](https://arxiv.org/abs/2502.09767)
-- 2025 🧱🧩🤖 HybridVLA: Collaborative Diffusion and Autoregression in a Unified Vision-Language-Action Model. [arXiv:2503.10631](https://arxiv.org/abs/2503.10631)
+- 2025 🌊🧩🤖 HybridVLA: Collaborative Diffusion and Autoregression in a Unified Vision-Language-Action Model. [arXiv:2503.10631](https://arxiv.org/abs/2503.10631)
 
 
 ### 2024
@@ -58,7 +59,7 @@ Note: Currently, this repository is under construction, some tags may be wrong o
 - 2024 🧱🪜 Scaling Diffusion Language Models via Adaptation from Autoregressive Models. [arXiv:2410.17891](https://arxiv.org/abs/2410.17891)
 - 2024 🧱🧠 Diffusion-of-Thought: Chain-of-Thought Reasoning in Diffusion Language Models. [arXiv:2402.07754](https://arxiv.org/abs/2402.07754)
 - 2024 🧱 D3PM: Structured Denoising Diffusion Models in Discrete State-Spaces. [arXiv:2107.03006](https://arxiv.org/abs/2107.03006)
-- 2024 🧱🤖 Diffusion-VLA: Scaling Robot Foundation Models via Unified Diffusion and Autoregression. [arXiv:2412.03293](https://arxiv.org/abs/2412.03293)
+- 2024 🌊🧩🤖 Diffusion-VLA: Scaling Robot Foundation Models via Unified Diffusion and Autoregression. [arXiv:2412.03293](https://arxiv.org/abs/2412.03293)
 
 
 ### 2023
@@ -66,12 +67,14 @@ Note: Currently, this repository is under construction, some tags may be wrong o
 - 2023 🧱🧩 AR-Diffusion: Auto-Regressive Diffusion Model for Text Generation. [arXiv:2305.09515](https://arxiv.org/abs/2305.09515)
 - 2023 🧱 A Reparameterized Discrete Diffusion Model for Text Generation. [arXiv:2302.05737](https://arxiv.org/abs/2302.05737)
 - 2023 🧱 Sequential Data Generation with Groupwise Diffusion Process. [arXiv:2310.01400](https://arxiv.org/abs/2310.01400)
-
+- 2023 🌊🧩 PLANNER: Enhancing Paragraph Generation with a Latent Language Diffusion Model. [arXiv:2306.02531](https://arxiv.org/abs/2306.02531)
 
 ### 2022
 
+- 2022 🌊🧩 Latent Diffusion for Language Generation. [arXiv:2212.09462](https://arxiv.org/abs/2212.09462)
 - 2022 🧱 SSD-LM: Semi-autoregressive Simplex-based Diffusion Language Model for Text Generation and Modular Control. [arXiv:2210.17432](https://arxiv.org/abs/2210.17432)
-- 2022 🧱 Diffusion-LM Improves Controllable Text Generation. [arXiv:2205.14217](https://arxiv.org/abs/2205.14217)
+- 2022 🌊 Diffusion-LM Improves Controllable Text Generation. [arXiv:2205.14217](https://arxiv.org/abs/2205.14217)
+- 2022 🧱 D3PMs: Denoising Diffusion Probabilistic Models for Discrete Data. [arXiv:2107.03006](https://arxiv.org/abs/2107.03006)
 
 ---
 ## <img height=34 src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png"/> Want to Contribute?
