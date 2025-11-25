@@ -20,7 +20,7 @@ Tasks centered on text generation, multi-step reasoning, planning, or tool use.
 
 #### 2025
 - 2025 🔗 Planner and Executor: Collaboration Between Discrete Diffusion and Autoregressive Models in Reasoning. [arXiv:2510.15244](https://arxiv.org/abs/2510.15244)
-- 2025 🔗 Planned Diffusion: A Guiding Diffusion Language Model via Planning. [arXiv:2510.18087](https://arxiv.org/abs/2510.18087)
+- 2025 🔗 Planned Diffusion. [arXiv:2510.18087](https://arxiv.org/abs/2510.18087)
 - 2025 🔗 TiDAR: Think in Diffusion, Talk in Autoregression. [arXiv:2511.08923](https://arxiv.org/abs/2511.08923)
 - 2025 🔗⚡ D2F: Diffusion LLMs Can Do Faster-Than-AR Inference via Discrete Diffusion Forcing. [arXiv:2508.09192](https://arxiv.org/abs/2508.09192)
 - 2025 💭⚡ Fast-dLLM: Training-free Acceleration of Diffusion LLM by Enabling KV Cache and Parallel Decoding. [arXiv:2505.22618](https://arxiv.org/abs/2505.22618)
@@ -31,8 +31,6 @@ Tasks centered on text generation, multi-step reasoning, planning, or tool use.
 - 2025 💭 Discrete Diffusion Models for Language Generation. [arXiv:2507.07050](https://arxiv.org/abs/2507.07050)
 - 2025 💭📝⚡ Blockwise SFT for Diffusion Language Models: Reconciling Bidirectional Attention and Autoregressive Decoding. [arXiv:2508.19529](https://arxiv.org/abs/2508.19529)
 - 2025 🔗 On Powerful Ways to Generate: Autoregression, Diffusion, and Beyond. [arXiv:2510.06190](https://arxiv.org/abs/2510.06190)
-- 2025 💭 Planner-aware Path Learning in Diffusion Language Models. [arXiv:2509.23405](https://arxiv.org/abs/2509.23405)
-- 2025 💭 Theoretical Benefit and Limitation of Diffusion Language Model. [arXiv:2502.09622](https://arxiv.org/abs/2502.09622)
 - 2025 🔗 Non-Markovian Discrete Diffusion with Causal Language Models. [arXiv:2502.09767](https://arxiv.org/abs/2502.09767)
 - 2025 💭 DiffTOD: Planning with Diffusion Models for Target-Oriented Dialogue. [arXiv:2504.16858](https://arxiv.org/abs/2504.16858)
 
@@ -48,9 +46,13 @@ Tasks centered on text generation, multi-step reasoning, planning, or tool use.
 
 #### 2023
 - 2023 📝 AR-Diffusion: Auto-Regressive Diffusion Model for Text Generation. [arXiv:2305.09515](https://arxiv.org/abs/2305.09515)
+- 2023 💭 A Reparameterized Discrete Diffusion Model for Text Generation. [arXiv:2302.05737](https://arxiv.org/abs/2302.05737)
+- 2023 💭 Sequential Data Generation with Groupwise Diffusion Process. [arXiv:2310.01400](https://arxiv.org/abs/2310.01400)
 
 #### 2022
 - 2022 📝 SSD-LM: Semi-autoregressive Simplex-based Diffusion Language Model for Text Generation and Modular Control. [arXiv:2210.17432](https://arxiv.org/abs/2210.17432)
+- 2022 💭 Diffusion-LM Improves Controllable Text Generation. [arXiv:2205.14217](https://arxiv.org/abs/2205.14217)
+
 
 ---
 
@@ -76,4 +78,4 @@ We welcome contributions! Please feel free to submit a PR or open an issue if yo
 - Only add papers that **explicitly connect diffusion and autoregression** (model or decoding).
 - Use consistent formatting: `YEAR ICONS Title. [arXiv:ID](https://arxiv.org/abs/ID)`.
 - Prefer papers with an **arXiv entry** so that every bullet has a stable link.
-- If you add new domains (e.g., speech, images, code), consider adding a new section with its own icon.
+- If you add new domains (e.g., speech, music, images, code), consider adding a new section with its own icon.
